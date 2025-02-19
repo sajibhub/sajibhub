@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **🔹 Node.js 🔹 Express.js 🔹 MongoDB & Aggregations 🔹 REST API Development 🔹 API Security & Authentication 🔹 Linux**
 
-- 📫 How to reach me **mohammadsajib996@gmail**
+- 📫 How to reach me **mohammadsajib996@gmail.com**
 
 - ⚡ Fun fact **They dial their girlfriend’s number 📞, I send a POST request to the server! 😆**
 
