@@ -12,7 +12,7 @@
 - 👯 Collab on: [Business Management](https://github.com/sajibhub/business-management)  
 - 🤝 Need help with: Backend Magic  
 - 👨‍💻 Portfolio: [sajib.xyz](https://sajib.xyz)  
-- 💬 Ask me about: <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>MongoDB</kbd> <kbd>APIs</kbd> <kbd>JWT</kbd>  
+- 💬 Ask me about: <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>MongoDB</kbd> <kbd>APIs</kbd>  <kbd>Socket Io</kbd> <kbd>JWT</kbd>  
 - 📫 Ping me: mohammadsajib996@gmail.com  
 - ⚡ Fun Fact: "I POST to servers while you call your ex! 😆"
 
