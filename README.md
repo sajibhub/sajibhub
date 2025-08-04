@@ -42,10 +42,10 @@ Hey there! I’m **Mohammad Sajib**, a passionate **Backend Developer from Khagr
 JavaScript, HTML5, CSS3
 
 **Backend**  
-Node.js, Express.js, Socket.IO, JWT, Passport.js, Nodemon, Dotenv
+Node.js, Express.js, Socket.IO, JWT, Passport.js, Nodemon, Dotenv, Crypto 
 
 **Databases**  
-MongoDB, Firebase
+MongoDB, Firebase, Redis
 
 **Frontend**  
 React.js, Redux, Tailwind CSS, Vite
